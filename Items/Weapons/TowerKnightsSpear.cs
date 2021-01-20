@@ -28,7 +28,7 @@ namespace TerraSouls.Items.Weapons
             item.useStyle = 5;
             item.rare = 3;
             item.value = Item.sellPrice(0, 1, 0, 0);
-            item.shoot = mod.ProjectileType("TowerKnight`sSpear");
+            item.shoot = mod.ProjectileType("TowerKnight`Spear");
             item.shootSpeed = 7f;
         }
     }
