@@ -31,6 +31,5 @@ namespace TerraSouls.Items.Weapons
             item.shoot = mod.ProjectileType("TowerKnight`sSpear");
             item.shootSpeed = 7f;
         }
-        
     }
 }
