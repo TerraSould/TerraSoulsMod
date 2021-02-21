@@ -1,0 +1,3 @@
+displayName = Terra Souls
+author = Ded`n`Enot
+version = 0.1
